@@ -577,3 +577,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.19-05.02.21:767][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
 [2019.05.19-05.02.22:396][318]LogSavePackage: Moving '../../../../../Unreal engine projects/UnrealGame/UnrealGame/Saved/ThirdPersonExampleMap3641C0AE4EA079CED7E277BE5E08C0BF.tmp' to '../../../../../Unreal engine projects/UnrealGame/UnrealGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.05.19-05.02.22:661][318]LogSavePackage: Moving '../../../../../Unreal engine projects/UnrealGame/UnrealGame/Saved/ThirdPersonExampleMap_BuiltData7A5651B848B80C4A2CFDD8885CEF3E08.tmp' to '../../../../../Unreal engine projects/UnrealGame/UnrealGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.05.19-05.02.49:836][443]LogSlate: Took 0.069987 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
